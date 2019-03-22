@@ -1,0 +1,11 @@
+.desktop{
+    /* child */
+    flex-grow: 1;
+
+    /* parent */
+    display: flex;
+    flex-wrap: wrap;
+
+    /* property */
+    background: rgba(0, 0, 0, 0);
+}

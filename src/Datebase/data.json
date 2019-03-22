@@ -1,0 +1,81 @@
+{
+  "home": {
+    "type": "folder",
+    "name": "home",
+    "data": {
+      "About MeAbout MeAbout MeAbout MeAbout Me": {
+        "type": "txt",
+        "name": "About MeAbout MeAbout MeAbout MeAbout Me",
+        "data": "Welcome to my personal page.\n"
+      },
+      "project": {
+        "type": "folder",
+        "name": "project",
+        "data": {
+          "dsnp": {
+            "type": "txt",
+            "name": "dsnp",
+            "data": "data stucture and programming!"
+          },
+          "sk12": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk32": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk4234": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk23": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk54": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk1": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programmidsadsamdlkf dsa dasd dmwqm lqwd lkqwdmlq wdaslsa lasmxlaskmx asl qwds qwoidjoisac jsioadjs aidxj iafduchasdf sdyuahsduf hasdukfh sdufh askudfh weifh wdusich dsicsdcuhsadkhqwsalkd hqwudhq widh qwiludh qwuidh qwd haskd haskjdh ashjsd ajsk jasd js jas uiq dasd asdj asdjasldjsajd lasjdlsakjd aslkdj asldj lsakjd lsak jdlasjdlksaj dlsaj laskd jasdj lkasjd lask djlkasdj alskjd aslkd jlasdjklsadj lasd klasdjaslkdj aslkj daslkd jasldj alskdjlkd jwqoidj qwoidjiaosjc iocj aosicjsaoidj qwodj qowidj oasijdoisajd oisajdo iwqjdoiqwjdoj swodij aosidj aosidj oaiscj oixzjc oiwsdjcdhosaijd oiashdoisadjosia jdosaijoajxcoijcoijcas oidjsioaj oidsaj oidjsao idasjxc lksajcasi joascjisoa wod iasd osai i wdh iuid asdas uias diuas udqwid qwud qwiudh qiwdhqwid hquwd iuqw duqwh duiqwhduiqwhdisad uashdiqwhdi qwid qw iiu lwekfnkdnlk daskmdlsamdlkas daskldmlk as lsdka alkwdqd lka sldasd qwdl dlqwk wq ng"
+          },
+          "sk2": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk3": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk4": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          },
+          "sk5": {
+            "type": "txt",
+            "name": "sk",
+            "data": "socket programming"
+          }
+        }
+      }
+    }
+  },
+
+  "flag": "flag{1_10v3_c0mput3r_5c13nc3}"
+}

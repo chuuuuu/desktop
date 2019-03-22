@@ -1,0 +1,37 @@
+.blog{
+    /* fill the entire screen */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    /* parent */
+    display: flex;
+    flex-direction: column;
+
+    /* property */
+    background-image: url(./icon/background.jpg);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* disable scroll bar */
+    overflow: hidden;
+}
+
+.blog-desktop{
+    /* child */
+    flex-grow: 1;
+
+    /* parent */
+    display: flex;
+}
+
+.blog-toolbar{
+    /* child */
+    flex-grow: 0;
+    flex-basis: 50px;
+    
+    /* parent */
+    display: flex;
+}

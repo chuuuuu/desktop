@@ -1,0 +1,54 @@
+.file{
+    /* child */
+    flex-grow: 0;
+
+    /* parent */
+    display: flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+
+    /* property */
+    height: 80px;
+    width: 80px;
+    font-size: 16px;
+}
+
+.file-icon{
+    /* property */
+    height: 50px;
+    width: 50px;
+}
+
+.file-icon-img{
+    /* property */
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.file-name{
+    /* property */
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+.file-click{
+    /* make text unselectable */
+    -webkit-user-select: none; /* Safari 3.1+ */
+    -moz-user-select: none; /* Firefox 2+ */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; /* Standard syntax */
+
+    /* make cursor to a pointer */
+    cursor: pointer;
+}
+
+.file-click:hover{
+    /* property */
+    background: rgba(0, 0, 0, 0.3)
+}
